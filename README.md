@@ -109,7 +109,7 @@ $ ssh -i <b><i>PRIVATE_KEY.PEM</i></b> ec2-user@<b><i>EC2_PUBLIC_DNS_NAME</i></b
 </pre>
 
 2\. Once logged into the EC2 instance, clone the workshop github repository so you can easily access the Dockerfile.  
-<pre>$ git clone https://github.com/awslabs/ecs-deep-learning-workshop.git</pre>
+<pre>$ git clone https://github.com/kreuzhofer/ecs-deep-learning-workshop.git</pre>
 
 3\. Navigate to the lab-2-build/mxnet/ folder to use as your working directory.  
 <pre>$ cd ecs-deep-learning-workshop/lab-2-build/mxnet</pre>
